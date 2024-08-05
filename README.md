@@ -1,0 +1,1 @@
+Folder or File convert PascalCase to kebab-case
